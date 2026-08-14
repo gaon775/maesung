@@ -1,0 +1,6 @@
+{
+  "name": "바른말 이음 - 중학교 혐오 표현 예방 6차시 실천 워크북",
+  "description": "중학생을 위한 6차시 혐오 표현 예방 교육 실천 중심 웹앱. 피라미드 워크숍, 미디어 실태 조사, 피해 공감 맵핑, 댓글 디톡스, 민주적 토론, 대항발화(Counter-Speech) 시뮬레이션 및 교실 서약서 제작 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
